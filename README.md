@@ -11,10 +11,9 @@
   <p align="center">
     A replication of key results from "Tail-GAN: Simulate Tail-Risk Scenarios"
     <br />
-    <a href="https://colab.research.google.com/drive/1y3xRDvFS0Kh0vpCS-u9Uai4MmcDNzIiX?usp=sharing">Open in Colab</a>
+    <a href="https://colab.research.google.com/drive/1CQS6bMMrQ5OqciczWPHcZ134xQPiAdIY?usp=sharing">Open in Colab</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
